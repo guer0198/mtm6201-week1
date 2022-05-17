@@ -9,6 +9,21 @@ body {
     background-color: beige;
 }
 
+h1,.list {
+    text-align: center;
+}
+
+ul {
+    font-weight: bold;
+    font-style: oblique;
+    margin: 0%;
+    padding: 0%;
+}
+
+li {
+    list-style-type: none;
+}
+
 img {
     width: 580px;
 }
