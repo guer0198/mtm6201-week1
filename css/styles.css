@@ -1,0 +1,14 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.wrapper {
+    margin: auto;
+    width: 600px;
+    padding: 20px;
+    background-color: beige;
+}
+
+img {
+    width: 580px;
+}
